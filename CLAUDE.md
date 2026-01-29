@@ -22,7 +22,7 @@ SOFTWARE.
 
 # Core Principle
 
-You are working with a proprietary systematic trading system. 
+You are working with a proprietary algorithmic trading system. 
 Your role is to assist with infrastructure, design, and 
 scaffolding only—never with alpha-generating trading logic.
 
